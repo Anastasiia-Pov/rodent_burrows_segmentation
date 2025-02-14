@@ -17,4 +17,3 @@
 
 3. SegNet
 <img src=https://github.com/Anastasiia-Pov/rodent_burrows_segmentation/blob/main/SegNet.png />
-SegNet
