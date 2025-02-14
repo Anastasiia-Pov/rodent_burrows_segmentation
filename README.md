@@ -1,4 +1,4 @@
-Rodent_burrows_segmentation
+## Rodent_burrows_segmentation
 
 Проект реализует обучение нейронных сетей задаче семантической сегментации нор грызунов на изображениях сельскохозяйственных угодий. 
 
@@ -11,8 +11,10 @@ Rodent_burrows_segmentation
 Рис. 1 CAE
 
 
+
 <img src=https://github.com/Anastasiia-Pov/rodent_burrows_segmentation/blob/main/U-Net.png>
 Рис. 2 U-Net
+
 
 
 <img src=https://github.com/Anastasiia-Pov/rodent_burrows_segmentation/blob/main/SegNet.png />
